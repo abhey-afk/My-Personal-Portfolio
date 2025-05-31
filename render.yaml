@@ -7,6 +7,6 @@ services:
     pullRequestPreviewsEnabled: true
     envVars:
       - key: NODE_VERSION
-        value: 16.15.0
+        value: 18.17.0
       - key: NODE_ENV
         value: production 
