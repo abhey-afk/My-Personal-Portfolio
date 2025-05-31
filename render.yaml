@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: abhey-portfolio
+    env: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./build
+    pullRequestPreviewsEnabled: true
+    envVars:
+      - key: NODE_VERSION
+        value: 16.15.0
+      - key: NODE_ENV
+        value: production 
