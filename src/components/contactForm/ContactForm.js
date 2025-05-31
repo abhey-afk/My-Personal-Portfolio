@@ -1,6 +1,6 @@
-import React, { useState, useContext } from "react";
+import React, { useState, useContext, useEffect } from "react";
 import "./ContactForm.scss";
-import { init, send } from "emailjs-com";
+import emailjs from '@emailjs/browser';
 import StyleContext from "../../contexts/StyleContext";
 
 // TODO: Replace these with your EmailJS credentials
@@ -11,9 +11,8 @@ import StyleContext from "../../contexts/StyleContext";
 //    - User ID: Account -> API Keys -> User ID
 //    - Service ID: Email Services -> [Your Service] -> Service ID
 //    - Template ID: Email Templates -> [Your Template] -> Template ID
-init("YOUR_USER_ID"); // Replace with your EmailJS User ID
 
-export default function ContactForm() {
+const ContactForm = () => {
   const { isDark } = useContext(StyleContext);
   const [formData, setFormData] = useState({
     name: "",
@@ -25,6 +24,11 @@ export default function ContactForm() {
     submitting: false,
     info: { error: false, msg: null },
   });
+
+  useEffect(() => {
+    // Initialize EmailJS with your user ID
+    emailjs.init(process.env.REACT_APP_EMAILJS_USER_ID || "YOUR_USER_ID");
+  }, []);
 
   const handleServerResponse = (ok, msg) => {
     if (ok) {
@@ -72,14 +76,15 @@ export default function ContactForm() {
         reply_to: formData.email,
       };
 
-      await send(
-        "YOUR_SERVICE_ID",
-        "YOUR_TEMPLATE_ID",
+      await emailjs.send(
+        process.env.REACT_APP_EMAILJS_SERVICE_ID || "YOUR_SERVICE_ID",
+        process.env.REACT_APP_EMAILJS_TEMPLATE_ID || "YOUR_TEMPLATE_ID",
         templateParams
       );
 
       handleServerResponse(true, "Thank you! I'll get back to you soon.");
     } catch (error) {
+      console.error("Email sending failed:", error);
       handleServerResponse(false, "Oops! Something went wrong. Please try again later.");
     }
   };
@@ -160,4 +165,6 @@ export default function ContactForm() {
       </form>
     </div>
   );
-} 
+};
+
+export default ContactForm; 

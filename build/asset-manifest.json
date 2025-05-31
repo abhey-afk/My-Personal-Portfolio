@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11913fa3.css",
+    "main.js": "/static/js/main.79b9fe0e.js",
+    "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
+    "static/js/487.e4e58725.chunk.js": "/static/js/487.e4e58725.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.b00b9791.chunk.js": "/static/js/990.b00b9791.chunk.js",
+    "static/media/Video Call.png": "/static/media/Video Call.ef191087fd459dbe6ebb.png",
+    "static/media/LMS.png": "/static/media/LMS.7df808157bde5ec9a2bc.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/Code Editor.png": "/static/media/Code Editor.2e257aec13e9cf6b7a50.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/HMR Logo.png": "/static/media/HMR Logo.0ec1e92a67451a484f7d.png",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.11913fa3.css.map": "/static/css/main.11913fa3.css.map",
+    "main.79b9fe0e.js.map": "/static/js/main.79b9fe0e.js.map",
+    "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
+    "487.e4e58725.chunk.js.map": "/static/js/487.e4e58725.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
+    "990.b00b9791.chunk.js.map": "/static/js/990.b00b9791.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11913fa3.css",
+    "static/js/main.79b9fe0e.js"
+  ]
+}
