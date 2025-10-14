@@ -103,7 +103,7 @@ const About = () => {
                 >
                   {/* University Logo - Replace with actual logo */}
                   <div className="w-full h-full bg-gradient-to-br from-blue-600 to-cyan-600 rounded-lg flex items-center justify-center text-white font-bold text-xs">
-                    <img src="src/assets/ggsipu logo.png" alt="GGSIPU Logo" className="w-full h-full object-contain" />
+                    <img src="/ggsipu-logo.png" alt="GGSIPU Logo" className="w-full h-full object-contain" />
                   </div>
                 </motion.div>
                 <div className="flex-1">

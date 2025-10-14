@@ -18,7 +18,7 @@ const Projects = () => {
       liveUrl: 'https://learning-management-system-72cf.onrender.com',
       githubUrl: 'https://github.com/abhey-afk/Learning-Management-System',
       gradient: 'from-blue-500 to-cyan-500',
-      image: 'src/assets/LMS.png'
+      image: '/LMS.png'
     },
     {
       title: 'Real-time Collaborative Code Editor',
@@ -28,7 +28,7 @@ const Projects = () => {
       liveUrl: 'https://realtime-collaborative-code-editor-az0d.onrender.com',
       githubUrl: 'https://github.com/abhey-afk/Realtime-Collaborative-Code-Editor',
       gradient: 'from-purple-500 to-pink-500',
-      image: 'src/assets/Code Editor.png',
+      image: '/Code-Editor.png',
     },
     {
       title: 'Video and Audio Web Application',
@@ -38,7 +38,7 @@ const Projects = () => {
       liveUrl: 'https://morning-escarpment-67980.onrender.com',
       githubUrl: 'https://github.com/abhey-afk/Video-calling-web-application',
       gradient: 'from-green-500 to-teal-500',
-      image: 'src/assets/Video app.png',
+      image: '/Video-app.png',
     },
   ];
 
