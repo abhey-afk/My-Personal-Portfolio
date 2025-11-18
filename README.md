@@ -1,134 +1,161 @@
-
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Abhey+Mishra;Full+Stack+Developer;MERN+Stack+Specialist" alt="Typing SVG" />
 
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" />
-  Personal Portfolio
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" />
-</h1>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhey%20Mishra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-5.4.2-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4.1.14-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-12.23.22-FF0055?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%A1;Building+Amazing+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-0EA5E9?style=for-the-badge" alt="Live Demo" /></a>
-  <a href="https://github.com/abhey-afk/My-Personal-Portfolio/issues"><img src="https://img.shields.io/badge/🐛_Report_Bug-FF4444?style=for-the-badge" alt="Report Bug" /></a>
-  <a href="https://github.com/abhey-afk/My-Personal-Portfolio/issues"><img src="https://img.shields.io/badge/✨_Request_Feature-00D4AA?style=for-the-badge" alt="Request Feature" /></a>
+<!-- Action Buttons -->
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-4F46E5?style=for-the-badge&logoColor=white" alt="Live Demo"/></a>
+  <a href="https://github.com/abhey-afk/My-Personal-Portfolio/issues"><img src="https://img.shields.io/badge/🐛_Report_Bug-EF4444?style=for-the-badge" alt="Report Bug"/></a>
+  <a href="https://github.com/abhey-afk/My-Personal-Portfolio/issues"><img src="https://img.shields.io/badge/✨_Feature_Request-10B981?style=for-the-badge" alt="Feature Request"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> About This Project
+## ✨ About This Project
+
+> **A modern, feature-rich personal portfolio showcasing my journey as a Full Stack Developer**
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-**A stunning, feature-rich personal portfolio showcasing my journey as a Full Stack Developer. Built with cutting-edge technologies and modern design principles.**
+### 🎯 What Makes It Special
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="20" height="20" /> Key Highlights
+```javascript
+const portfolio = {
+  design: "Modern & Minimalist ✨",
+  responsive: "Works on ALL devices 📱💻",
+  theme: "Dark/Light Mode Toggle 🌓",
+  performance: "Lightning Fast ⚡",
+  animations: "Smooth & Interactive 🎭",
+  contact: "Functional Email Integration 📧",
+  experience: "Custom Cursor Effects 🖱️"
+};
+```
 
-- 🎨 **Modern UI/UX** - Sleek design with smooth animations
-- 📱 **Fully Responsive** - Perfect on all devices
-- 🌓 **Dark/Light Theme** - User preference toggle
-- ⚡ **Lightning Fast** - Optimized with Vite
-- 🎭 **Interactive Animations** - Powered by Framer Motion
-- 📧 **Functional Contact** - EmailJS integration
-- 🖱️ **Custom Cursor Trail** - Unique user experience
+### 🚀 Key Features
+
+- 🎨 **Stunning UI/UX** - Clean, modern design with attention to detail
+- 📱 **100% Responsive** - Seamless experience across all screen sizes
+- 🌓 **Theme Toggle** - Beautiful dark and light modes
+- ⚡ **Blazing Fast** - Optimized performance with Vite
+- 🎭 **Smooth Animations** - Eye-catching transitions with Framer Motion
+- 📧 **Working Contact Form** - Real-time email delivery via EmailJS
+- 🖱️ **Interactive Elements** - Custom cursor trail and hover effects
 
 </td>
-<td width="50%">
+<td width="40%">
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhey-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=abhey-afk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhey-afk&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 
 </td>
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend Technologies
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css" alt="Frontend Technologies" />
+### 💻 Frontend & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css&theme=dark" alt="Frontend Stack"/>
+</p>
 
-### Tools & Libraries
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,nodejs" alt="Tools & Libraries" />
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,nodejs,vercel&theme=dark" alt="Tools"/>
+</p>
 
 </div>
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-**🎨 Frontend**
-- React 18.3.1
-- Vite 5.4.2
-- Tailwind CSS 4.1.14
-- Framer Motion 12.23.22
-
-</td>
-<td width="33%">
-
-**📚 Libraries**
-- React Icons 5.5.0
-- EmailJS 4.4.1
-- React Context API
-- React Hooks
+### 🎨 Frontend
+- ⚛️ React 18.3.1
+- ⚡ Vite 5.4.2
+- 🎨 Tailwind CSS 4.1.14
+- 🎭 Framer Motion 12.23.22
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-**🛠️ Development**
-- ESLint
-- PostCSS
-- Autoprefixer
-- Git & GitHub
+### 📚 Libraries
+- 🎯 React Icons 5.5.0
+- 📧 EmailJS 4.4.1
+- 🔄 React Context API
+- 🪝 React Hooks
+
+</td>
+<td width="33%" align="center">
+
+### 🛠️ Development
+- ✅ ESLint
+- 🎨 PostCSS
+- 🔧 Autoprefixer
+- 📦 Git & GitHub
 
 </td>
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" height="25" /> Features Showcase
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 🎯 Features Overview
 
 <div align="center">
 
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 🏠 **Hero Section** | Dynamic typing animation, social links, CTA buttons | ✅ Complete |
-| 👨‍💻 **About Section** | Professional summary, education, contact cards | ✅ Complete |
-| 💼 **Skills Section** | Categorized skills with interactive animations | ✅ Complete |
-| 🎨 **Projects Section** | Showcase with live demos and GitHub links | ✅ Complete |
-| 📊 **Experience Section** | Timeline view with company details | ✅ Complete |
-| 📈 **Stats Section** | Animated counters for achievements | ✅ Complete |
-| 📞 **Contact Section** | Functional form with EmailJS | ✅ Complete |
-| 🎯 **Extras** | Cursor trail, smooth scrolling, theme toggle | ✅ Complete |
+| 🎨 Feature | 📝 Description | ✅ Status |
+|:-----------|:---------------|:---------:|
+| 🏠 **Hero Section** | Dynamic typing animation, social links, call-to-action buttons | ✅ Live |
+| 👨‍💻 **About Me** | Professional summary, education timeline, contact information | ✅ Live |
+| 💼 **Skills Showcase** | Categorized tech skills with interactive hover animations | ✅ Live |
+| 🎨 **Projects Gallery** | Featured projects with live demos and GitHub repositories | ✅ Live |
+| 📊 **Experience Timeline** | Professional journey with company details and achievements | ✅ Live |
+| 📈 **Stats Counter** | Animated statistics showcasing accomplishments | ✅ Live |
+| 📞 **Contact Form** | Functional email form powered by EmailJS | ✅ Live |
+| 🎯 **Extra Features** | Custom cursor trail, smooth scrolling, theme switcher | ✅ Live |
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Quick Start
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-<details>
-<summary><b>📋 Prerequisites</b></summary>
+## 🚀 Getting Started
 
-- **Node.js** (v14 or higher) - [Download](https://nodejs.org/)
-- **npm** or **yarn** - Package manager
-- **Git** - Version control
+### 📋 Prerequisites
 
-</details>
+Before you begin, ensure you have:
+- ✅ **Node.js** (v14 or higher) - [Download Here](https://nodejs.org/)
+- ✅ **npm** or **yarn** - Package manager
+- ✅ **Git** - Version control system
 
-<details>
-<summary><b>⚡ Installation</b></summary>
+### ⚡ Installation Steps
 
 ```bash
 # 1️⃣ Clone the repository
@@ -139,153 +166,157 @@ cd My-Personal-Portfolio
 
 # 3️⃣ Install dependencies
 npm install
+```
 
-# 4️⃣ Set up environment variables (optional)
-# Create .env file and add your EmailJS credentials
-VITE_EMAILJS_SERVICE_ID=your_service_id
-VITE_EMAILJS_TEMPLATE_ID=your_template_id
-VITE_EMAILJS_PUBLIC_KEY=your_public_key
+### 🔑 Environment Setup (Optional)
 
-# 5️⃣ Start development server
+Create a `.env` file in the root directory:
+
+```env
+VITE_EMAILJS_SERVICE_ID=your_service_id_here
+VITE_EMAILJS_TEMPLATE_ID=your_template_id_here
+VITE_EMAILJS_PUBLIC_KEY=your_public_key_here
+```
+
+### 🎬 Running the Project
+
+```bash
+# 🔥 Start development server
 npm run dev
 
-# 6️⃣ Build for production
+# 🏗️ Build for production
 npm run build
+
+# 👀 Preview production build
+npm run preview
 ```
 
-</details>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="File Folder" width="25" height="25" /> Project Structure
+## 🎨 Customization Guide
 
-```
-📁 My-Personal-Portfolio/
-├── 📁 public/                 # Static assets
-│   ├── 🖼️ LMS.png             # Project images
-│   ├── 🖼️ Code-Editor.png
-│   ├── 🖼️ Video-app.png
-│   └── 🖼️ ggsipu-logo.png
-├── 📁 src/
-│   ├── 📁 components/         # React components
-│   │   ├── 🏠 Hero.jsx        # Landing section
-│   │   ├── 👨‍💻 About.jsx       # About section
-│   │   ├── 💼 Skills.jsx      # Skills display
-│   │   ├── 🎨 Projects.jsx    # Projects showcase
-│   │   ├── 📊 Experience.jsx  # Work timeline
-│   │   ├── 📞 Contact.jsx     # Contact form
-│   │   ├── 🧭 Navbar.jsx      # Navigation
-│   │   ├── 🦶 Footer.jsx      # Footer
-│   │   ├── 📈 Stats.jsx       # Statistics
-│   │   ├── ⏰ Timeline.jsx    # Timeline component
-│   │   ├── ✍️ TypingAnimation.jsx # Typing effect
-│   │   └── 🖱️ CursorTrail.jsx # Cursor animation
-│   ├── 📁 context/           # React Context
-│   │   └── 🌓 ThemeContext.jsx # Theme management
-│   ├── 📁 assets/            # Images & files
-│   ├── 🎯 App.jsx            # Main component
-│   ├── 🚀 main.jsx           # Entry point
-│   └── 🎨 index.css          # Global styles
-├── ⚙️ vite.config.js         # Vite configuration
-├── 🎨 tailwind.config.js     # Tailwind config
-└── 📖 README.md              # Documentation
-```
+### 🔧 Personal Information
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Customization Guide
-
-<details>
-<summary><b>🔧 Personal Information</b></summary>
-
-**Update Hero Section** (`src/components/Hero.jsx`)
+**Hero Section** (`src/components/Hero.jsx`)
 ```jsx
-// Change name, roles, and social links
-const roles = ["Full Stack Developer", "MERN Specialist", "Your Role"];
+// Update your name and roles
+const roles = [
+  "Full Stack Developer",
+  "MERN Stack Specialist",
+  "Your Custom Role"
+];
+
+// Update social media links
+const socialLinks = {
+  github: "https://github.com/your-username",
+  linkedin: "https://linkedin.com/in/your-profile",
+  email: "your.email@example.com"
+};
 ```
 
-**Update About Section** (`src/components/About.jsx`)
+**About Section** (`src/components/About.jsx`)
 ```jsx
-// Modify professional summary and education
-const summary = "Your professional summary here...";
+// Modify your professional summary
+const aboutMe = {
+  summary: "Your professional summary goes here...",
+  education: "Your education details...",
+  location: "Your location"
+};
 ```
 
-**Update Projects** (`src/components/Projects.jsx`)
+**Projects** (`src/components/Projects.jsx`)
 ```jsx
 // Add your projects
 const projects = [
   {
-    title: "Your Project",
-    description: "Project description...",
-    tech: ["React", "Node.js"],
-    liveUrl: "https://your-demo.com",
-    githubUrl: "https://github.com/your-repo"
+    title: "Project Name",
+    description: "Brief description of your project...",
+    technologies: ["React", "Node.js", "MongoDB"],
+    liveUrl: "https://your-project-demo.com",
+    githubUrl: "https://github.com/your-username/project-repo",
+    image: "/path-to-project-image.png"
   }
 ];
 ```
 
-</details>
+### 🎨 Theme Customization
 
-<details>
-<summary><b>🎨 Theme Customization</b></summary>
-
-**Change Color Scheme** (`src/index.css`)
+**Color Scheme** (`src/index.css`)
 ```css
 @theme {
-  --color-primary: #0ea5e9;    /* Primary color */
-  --color-secondary: #06b6d4;  /* Secondary color */
+  /* Primary Colors */
+  --color-primary: #3B82F6;
+  --color-secondary: #8B5CF6;
+  
+  /* Background Colors */
+  --color-bg-light: #FFFFFF;
+  --color-bg-dark: #0F172A;
+  
+  /* Accent Colors */
+  --color-accent: #10B981;
 }
 ```
 
-**Add Custom Animations** (`src/components/`)
+**Custom Animations** (Using Framer Motion)
 ```jsx
-// Use Framer Motion for custom animations
+import { motion } from 'framer-motion';
+
 <motion.div
   initial={{ opacity: 0, y: 50 }}
-  animate={{ opacity: 1, y: 0 }}
-  transition={{ duration: 0.5 }}
+  whileInView={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.6, ease: "easeOut" }}
+  viewport={{ once: true }}
 >
-  Your content
+  Your animated content here
 </motion.div>
 ```
 
-</details>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="25" height="25" /> Deployment
+## 🚀 Deployment
 
 <div align="center">
 
-### Choose Your Platform
+### Choose Your Deployment Platform
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangle%20with%20Rounded%20Corners.png" alt="Triangle" width="20" height="20" /> Vercel**
-
+### ▲ Vercel
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/abhey-afk/My-Personal-Portfolio)
 
-1. Connect GitHub
-2. Import repository
-3. Deploy automatically
+**Steps:**
+1. Click the deploy button
+2. Connect your GitHub
+3. Configure environment variables
+4. Deploy! 🚀
 
 </td>
 <td align="center" width="33%">
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" height="20" /> Render**
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-
-1. Create Static Site
-2. Build: `npm run build`
-3. Publish: `build`
-
-</td>
-<td align="center" width="33%">
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page" width="20" height="20" /> Netlify**
-
+### 🎨 Netlify
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/abhey-afk/My-Personal-Portfolio)
 
-1. Drag & drop `build` folder
-2. Or connect GitHub
-3. Auto-deploy on push
+**Steps:**
+1. Click deploy button
+2. Authorize Netlify
+3. Build: `npm run build`
+4. Publish: `dist`
+
+</td>
+<td align="center" width="33%">
+
+### 🔷 Render
+**Steps:**
+1. Create a new Static Site
+2. Connect repository
+3. Build: `npm run build`
+4. Publish directory: `dist`
 
 </td>
 </tr>
@@ -293,7 +324,38 @@ const projects = [
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Telephone" width="25" height="25" /> Connect With Me
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhey-afk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Abhey's GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhey-afk&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="Abhey's Streak Stats"/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhey-afk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhey-afk&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 📞 Let's Connect!
 
 <div align="center">
 
@@ -301,48 +363,66 @@ const projects = [
 <tr>
 <td align="center" width="50%">
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="30" height="30" /> Abhey Mishra**
-*Full Stack Developer*
+### 👨‍💻 Abhey Mishra
+**Full Stack Developer | MERN Specialist**
+
+📍 New Delhi, India  
+📱 +91 9625806295
 
 </td>
 <td align="center" width="50%">
 
 <a href="mailto:ab852759@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<br/>
 <a href="https://www.linkedin.com/in/abhey-mishra-841023230/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<br/>
 <a href="https://github.com/abhey-afk">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-**📍 Location:** New Delhi, India  
-**📱 Phone:** +91 9625806295
-
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Analytics
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 💖 Support
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhey-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhey-afk&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+### ⭐ Found this project helpful? Give it a star!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhey-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhey-afk&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="48%" />
+**It motivates me to create more amazing projects** 🚀
 
-</div>
+<a href="https://github.com/abhey-afk/My-Personal-Portfolio/stargazers">
+  <img src="https://img.shields.io/github/stars/abhey-afk/My-Personal-Portfolio?style=social" alt="Stars"/>
+</a>
+<a href="https://github.com/abhey-afk/My-Personal-Portfolio/network/members">
+  <img src="https://img.shields.io/github/forks/abhey-afk/My-Personal-Portfolio?style=social" alt="Forks"/>
+</a>
+<a href="https://github.com/abhey-afk/My-Personal-Portfolio/watchers">
+  <img src="https://img.shields.io/github/watchers/abhey-afk/My-Personal-Portfolio?style=social" alt="Watchers"/>
+</a>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Achievements & Recognition
+<br/><br/>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhey-afk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://komarev.com/ghpvc/?username=abhey-afk&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -350,12 +430,8 @@ const projects = [
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 💻 Made with ❤️ by [Abhey Mishra](https://github.com/abhey-afk)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" /> Made with passion by [Abhey Mishra](https://github.com/abhey-afk)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" /> **Star this repository if you found it helpful!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" />
-
-<img src="https://komarev.com/ghpvc/?username=abhey-afk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
